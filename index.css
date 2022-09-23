@@ -5,11 +5,11 @@ body {
   }
   .logo {
     width: 100px;
-    height: 50px;
+    height: 60px;
   }
   
   nav {
-    background-color: black;
+    background-color: rgb(19, 19, 19);
   }
   .space{
       margin: 0px 20px 0px 130px;
